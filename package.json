@@ -1,0 +1,16 @@
+{
+  "name": "netflix_landing_page",
+  "version": "1.0.0",
+  "description": "A reproduction of the Netflix landing page.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": ["netflix"],
+  "author": "Adrian Chiriac",
+  "license": "ISC",
+  "homepage": "https://chiriacadrian.github.io/netflix-landing-page",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
